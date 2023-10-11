@@ -1,0 +1,6 @@
+../MCAL/DIO/DIO_prog.c:15:6:DIO_voidInitialization	1
+../MCAL/DIO/DIO_prog.c:29:6:DIO_voidSetPinDirection	73
+../MCAL/DIO/DIO_prog.c:332:6:DIO_voidSetPinValue	17
+../MCAL/DIO/DIO_prog.c:347:6:DIO_voidTogPinValue	9
+../MCAL/DIO/DIO_prog.c:362:4:DIO_u8GetPinValue	9
+../MCAL/DIO/DIO_prog.c:377:6:DIO_voidSetPortValueMask	9

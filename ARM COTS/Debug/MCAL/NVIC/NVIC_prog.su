@@ -1,0 +1,7 @@
+../MCAL/NVIC/NVIC_prog.c:17:6:NVIC_voidInit	4	static
+../MCAL/NVIC/NVIC_prog.c:26:6:NVIC_voidEnableInterrupt	16	static
+../MCAL/NVIC/NVIC_prog.c:42:6:NVIC_voidDisableInterrupt	16	static
+../MCAL/NVIC/NVIC_prog.c:58:6:NVIC_voidSetPendingFlag	16	static
+../MCAL/NVIC/NVIC_prog.c:74:6:NVIC_voidClrPendingFlag	16	static
+../MCAL/NVIC/NVIC_prog.c:90:6:NVIC_u8ActiveFlag	16	static
+../MCAL/NVIC/NVIC_prog.c:108:6:NVIC_voidSetPriority	16	static

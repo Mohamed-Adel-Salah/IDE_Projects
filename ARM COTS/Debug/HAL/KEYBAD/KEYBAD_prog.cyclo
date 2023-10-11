@@ -1,0 +1,2 @@
+../HAL/KEYBAD/KEYBAD_prog.c:19:6:KEYBAD_voidInitialization	1
+../HAL/KEYBAD/KEYBAD_prog.c:47:6:KEYBAD_voidGetPressedKey	5

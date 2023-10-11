@@ -1,0 +1,6 @@
+../MCAL/SYSTICK/SYSTICK_prog.c:17:6:SYSTICK_voidInitializatio	1
+../MCAL/SYSTICK/SYSTICK_prog.c:23:6:SYSTICK_voidInterruptEnable	1
+../MCAL/SYSTICK/SYSTICK_prog.c:28:6:SYSTICK_voidInterruptDisable	1
+../MCAL/SYSTICK/SYSTICK_prog.c:33:6:SYSTICK_voidSetReloadValue	1
+../MCAL/SYSTICK/SYSTICK_prog.c:39:6:SYSTICK_CallBack	1
+../MCAL/SYSTICK/SYSTICK_prog.c:44:7:SysTick_Handler	1

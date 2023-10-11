@@ -1,0 +1,7 @@
+../HAL/LCD_KIT/LCD_KIT_prog.c:20:6:LCD_KIT_voidInitialization	1
+../HAL/LCD_KIT/LCD_KIT_prog.c:57:6:LCD_KIT_voidDisplayCharacter	1
+../HAL/LCD_KIT/LCD_KIT_prog.c:84:6:LCD_KIT_voidRunCommand	1
+../HAL/LCD_KIT/LCD_KIT_prog.c:112:6:LCD_KIT_voidSetCurser	1
+../HAL/LCD_KIT/LCD_KIT_prog.c:119:6:LCD_KIT_voidDisplayString	2
+../HAL/LCD_KIT/LCD_KIT_prog.c:137:6:LCD_KIT_voidDisplayBigNumber	8
+../HAL/LCD_KIT/LCD_KIT_prog.c:192:6:LCD_KIT_voidStoreCustomCharacter	2
